@@ -10,9 +10,9 @@ permitindo a criação, edição e organização de flash cards em diferentes ca
 
 ## Tecnologias Utilizadas
 
-Java: Linguagem de desenvolvimento.
-Java Swing: Framework utilizado para a interface gráfica do usuário (GUI).
-MySQL: Banco de dados para armazenar os flashcards e dados do usuário.
+* Java: Linguagem de desenvolvimento.
+* Java Swing: Framework utilizado para a interface gráfica do usuário (GUI).
+* MySQL: Banco de dados para armazenar os flashcards e dados do usuário.
 
 ## Colaboradores
 
