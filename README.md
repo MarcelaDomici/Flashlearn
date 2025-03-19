@@ -16,5 +16,5 @@ MySQL: Banco de dados para armazenar os flashcards e dados do usuário.
 
 ## Colaboradores
 
-* Júlia Ingrid - documentaçao e design da interface.
+* Júlia Ingrid - documentação e design da interface.
 * Marcela Domiciano - Desenvolvimento, implementação e banco de dados.
